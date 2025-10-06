@@ -20,8 +20,8 @@ Key objectives include:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Abobakr146/Task2.git
-    cd Task2.git
+    git clone https://github.com/Abobakr146/Customer_Segmentation.git
+    cd Customer_Segmentation.git
     ```
 
 2. **Follow the task instructions** provided in the project files.
